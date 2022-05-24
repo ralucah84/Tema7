@@ -1,0 +1,2 @@
+Acesta este textul scris din python
+Ma astept sa apara pe rand nou, oare apare??

@@ -1,0 +1,50 @@
+{"people": {
+    "aeec8c5e-f513-4dfd-8435-1d49eb90877c": {
+        "first_name": "Mike",
+        "last_name": "McMan",
+        "sex": "M",
+        "age": 52,
+        "partner": "d48da772-fdb0-4b14-9ff5-aafe29c15dc9",
+        "children": ["dd69e184-ee18-491c-ba36-db625ba35d8b", "b14031ee-bec5-4902-8e78-95508bd89b64", "9fc00e67-5d00-4830-8679-4e2e66f7fe64"]
+    },
+    "d48da772-fdb0-4b14-9ff5-aafe29c15dc9": {
+        "first_name": "Mary",
+        "last_name": "McMan",
+        "sex": "F",
+        "age": 50,
+        "partner": "aeec8c5e-f513-4dfd-8435-1d49eb90877c",
+        "children": ["dd69e184-ee18-491c-ba36-db625ba35d8b", "b14031ee-bec5-4902-8e78-95508bd89b64"]
+    },
+    "dd69e184-ee18-491c-ba36-db625ba35d8b": {
+        "first_name": "Anna",
+        "last_name": "McMan",
+        "sex": "F",
+        "age": 28,
+        "partner": "",
+        "children": []
+    },
+    "b14031ee-bec5-4902-8e78-95508bd89b64": {
+        "first_name": "Adrian",
+        "last_name": "McMan",
+        "sex": "M",
+        "age": 26,
+        "partner": "",
+        "children": []
+    },
+    "9fc00e67-5d00-4830-8679-4e2e66f7fe64": {
+        "first_name": "Danna",
+        "last_name": "McMan",
+        "sex": "F",
+        "age": 30,
+        "partner": "",
+        "children": []
+    },
+    "711f79a9-8ec8-45d4-8de6-76ae06c7b7cd": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "sex": "M",
+        "age": 32,
+        "partner": "",
+        "children": []  
+    }
+}}

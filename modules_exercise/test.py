@@ -9,11 +9,11 @@
 # 3. Now let`s try to do the same with list_of_primes_in_interval_v2 function, what do we observe? What should we do?
 
 # ex1
-from is_prime import *
-print(is_prime_v2(13))
-
-assert is_prime_v2(13) == True
-assert is_prime_v2(8) == False
+# from is_prime import *
+# print(is_prime_v2(13))
+#
+# assert is_prime_v2(13) == True
+# assert is_prime_v2(8) == False
 
 # ex2
 from primes_in_interval import list_of_primes_in_interval_v3, list_of_primes_in_interval_v2
